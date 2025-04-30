@@ -1,0 +1,74 @@
+My information:
+my name is Rohan shet
+mobile or contact number is +91 8553439205
+place Bengaluru, Karnataka
+email id or address is rohan.shet123@gmail.com
+GitHub id is https://github.com/rohans1869
+linkedin id is www.linkedin.com/in/rohanr2
+
+
+
+
+technical skills:
+in Languages and Tools i know : Python , SQL, Flask, have Knowledge of PowerB and tableau
+in AI/ML i know : Deep Learning, ANN, CNN, TensorFlow, Keras, Natural Language Processing (NLP), Random Forest
+in Generative AI i know : LLM (OpenAI GPT models , AWS bedrock models “sonnet and haiku”) Framework (langchain)
+in RAG Tools Vector database i know - FAISS, ChromaDB, Qdrant and PG vector 
+in RAG frameworks - Langchain and knowledge of LlamaIndex
+in RAG i know prompt engineering and Docker and Flask api for model deployment.
+
+
+Projects:
+these are some of my projects 1.: AI chatbot - RAG application for efficient HR policy and internal document retrieval
+2. Voice/Text-Based Equipment Information Chatbot for Hospital staff.
+3. Digitizing handwritten audit images
+4. EDA on the Mental health app data
+5. Chatbot for website using GPT 3.5 and langchain
+6. Product recommendation for e commerce websites
+
+
+
+Projects details:
+project 1. Project Title : AI chatbot
+Objective and Description : Developed a RAG application for efficient HR policy and internal document retrieval via an AI-powered chatbot.
+Tool used : AWS bedrock llm models (sonnet and haiku) and OpenAI models, Langchain framework, Qdrant and PG vector database.
+Results and Impact: Simplified access to HR info, increased efficiency, and improved employee experience through a user-friendly chatbot.
+
+project 2. Project Title : Voice/Text-Based Equipment Information Chatbot for Hospital staff.
+Objective  and Description :  Chatbot to find equipment information (location, maintenance date, etc ) with text chat or voice input, using GPT. GPT will generate script to call API which will retrieve equipment info from hospital server.
+Tool used : GPT 3.5, langchain, Python.
+Results and Impact: Staff can inquire about equipment using either voice or text and receive answers in both voice and textual formats.
+
+project 3. Project Title : Digitizing handwritten audit images
+Objective : converting handwritten text and OMR markings into digital form. 
+Description -  To enhance the clarity of images, they are preprocessed with OpenCV. Using AWS Textract, only handwritten text is recognized. but it failed to recognize OMR markings. and would skip some parts of the text. So we addressed the shortcomings of Textract with Python.
+Tool used : Python, Amazon textract, easy OCR, OpenCV
+Results and Impact: It has reduced transcriber work more than 70%.
+
+project 4. Project Title: EDA on the Mental health app data
+Objective: EDA on the dataset of a Mental Health App, which provides exercises and coaching sessions to improve mental health.
+Description: To learn about the effectiveness of the BeMe app in treating depression. EDA was conducted on user data.
+Tool used: Python, Matplotlib, Seaborn
+Result: We identified patterns and trends in user engagement with the BeMe Mental Health App, indicating its potential effectiveness in treating depression.
+
+project 5. Chatbot for website using GPT 3.5 and langchain . Content of website is stored in vectorized form, and Q&A bot is built on top of that. (tools used GPT 3.5, langchain, Python, Chroma (vectorizer))
+
+project 6. Product recommendation for e commerce websites using GPT 3.5, langchain, Python, Chroma (vectorizer).
+ And  Data analysing with prompt using GPT 3.5, langchain, Python
+ 
+ 
+ 
+ Work Experience:
+I have worked in Aivariant (Nov 2021  to July 2022) as Data scientist
+I have worked in Codecraft Technologies pvt ltd (Sep 2022 to Oct 2024) as Data scientist
+
+
+
+NON IT Work Experience:
+I have worked in RGBSI pvt ltd (Oct 2019   to  Oct 2021) as CNC Programmer
+I have worked in Jaivel Aerospace as CNC Programmer
+
+
+
+ EDUCATION:
+ I have done my Bachelor of engineering. from Visvesvaraya Technological University (VTU)
