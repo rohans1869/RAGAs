@@ -1,0 +1,2 @@
+# RAGAs
+To evaluate RAG
